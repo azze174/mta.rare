@@ -1,1 +1,2 @@
-# mta.rare
+# Private MTA Software
+# vk.com/anubis_premium
